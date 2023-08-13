@@ -1,0 +1,5 @@
+{{#user}
+Name: Syed Haidar Abbas
+Skills: HTML, CSS, JS, React.js
+Email: syedhaidar4213@gmail.com
+{{/user}}
